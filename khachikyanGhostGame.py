@@ -23,19 +23,3 @@ print ("Game over. It took you", score, "tries to find the ghost")
 
 
     
-    #start_game = False
-#print("The ghost door is: ", ghost_door)
-#print("The player's door is:", user_door_num)
-
-
-
-
-    
-# === data type is the same
-# == is when you compare to see if they are the exact same or not
-# = is when you assign something
-
-#if (Condition):
-#   TRUE
-#else:
-#    FALSE
